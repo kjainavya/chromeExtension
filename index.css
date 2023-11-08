@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+
+input{
+padding: 10px 10px;
+width: 100%;
+box-sizing: border-box;
+border: 1px solid blue;
+margin-bottom: 7px;
+}
+button{
+/* background-color:#5f9341 ; */
+background-color: cornflowerblue;
+color: white;
+/* border: none; */
+border : 1px solid cornflowerblue;
+font-weight: bold;
+font-size: 15px;
+padding: 12px 10px;
+cursor: pointer;
+}
+
+#delete-btn{
+  
+    background-color: white;
+    color: cornflowerblue;
+}
+ul{
+    list-style: none;  /* to remove bullets */
+    padding: 0;
+    margin-top: 19px;
+}
+li{
+   margin-top: 7px;
+}
+li a{
+    color: cornflowerblue ;
+    /* text-decoration: none; */
+}
+
